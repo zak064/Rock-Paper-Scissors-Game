@@ -2,7 +2,7 @@
 
 # 🎮 Rock Paper Scissors Game
 
-### A simple C++ console game based on the classic Stone, Paper, Scissors challenge
+### A simple C++ console game based on the classic Rock, Paper, Scissors challenge
 
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -11,15 +11,19 @@
   <img src="https://img.shields.io/badge/Problem_Solving-2E7D32?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </p>
 
+<a href="https://zakariyafayadpro.netlify.app/project-videos#project-1">
+  <img src="https://img.shields.io/badge/See_Project_Video-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
 ## 📖 About the Project
 
-**Stone Paper Scissors Game** is a simple and fun **C++ console application** where the player competes against the computer.
+**Rock Paper Scissors Game** is a simple and fun **C++ console application** where the player competes against the computer.
 
-The player chooses one option: **Stone**, **Paper**, or **Scissors**.  
+The player chooses one option: **Rock**, **Paper**, or **Scissors**.  
 The computer generates its choice randomly, and the program compares both choices to decide the winner.
 
 This project was built to practice basic programming concepts, game logic, and clean code structure.
@@ -28,7 +32,7 @@ This project was built to practice basic programming concepts, game logic, and c
 
 ## 🎯 Game Features
 
-- 🪨 Stone, Paper, Scissors gameplay
+- 🪨 Rock, Paper, Scissors gameplay
 - 🤖 Computer choice generated randomly
 - 🧠 Winner calculation using game rules
 - 🔁 Multiple rounds support
@@ -54,7 +58,7 @@ This project was built to practice basic programming concepts, game logic, and c
 ## 🧩 Game Rules
 
 ```text
-Stone beats Scissors
+Rock beats Scissors
 Scissors beats Paper
-Paper beats Stone
+Paper beats Rock
 Same choices result in a Draw
